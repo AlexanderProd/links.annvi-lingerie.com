@@ -1,0 +1,1 @@
+rclone sync -P . Wertgebung_PHP-Friends:/links.annvi-lingerie.com/ --exclude=.git/
